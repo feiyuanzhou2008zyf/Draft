@@ -1,0 +1,6 @@
+/home/c4droid/Source/Carbon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/c4droid/Source/Carbon/cmake-build-debug/CMakeFiles/Kernel.elf.dir
+/home/c4droid/Source/Carbon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/c4droid/Source/Carbon/cmake-build-debug/CMakeFiles/Generate.dir
+/home/c4droid/Source/Carbon/cmake-build-debug/CMakeFiles/Debug.dir
+/home/c4droid/Source/Carbon/cmake-build-debug/CMakeFiles/Clean.dir

@@ -1,2 +1,2 @@
-# Draft
-Draft code for main repository
+# Carbon
+The operating system project

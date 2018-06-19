@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/Bootloader/MainBoot.c.o   -c /home/c4droid/Source/Carbon/Bootloader/MainBoot.c",
+  "file": "/home/c4droid/Source/Carbon/Bootloader/MainBoot.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/DebugUtil/DebugUtil.c.o   -c /home/c4droid/Source/Carbon/DebugUtil/DebugUtil.c",
+  "file": "/home/c4droid/Source/Carbon/DebugUtil/DebugUtil.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/DebugUtil/KernelAssert.c.o   -c /home/c4droid/Source/Carbon/DebugUtil/KernelAssert.c",
+  "file": "/home/c4droid/Source/Carbon/DebugUtil/KernelAssert.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/DescriptorTable/DescriptorUtil.c.o   -c /home/c4droid/Source/Carbon/DescriptorTable/DescriptorUtil.c",
+  "file": "/home/c4droid/Source/Carbon/DescriptorTable/DescriptorUtil.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/ElfFile/ELFSymbol.c.o   -c /home/c4droid/Source/Carbon/ElfFile/ELFSymbol.c",
+  "file": "/home/c4droid/Source/Carbon/ElfFile/ELFSymbol.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/ElfFile/MultibootElfSection.c.o   -c /home/c4droid/Source/Carbon/ElfFile/MultibootElfSection.c",
+  "file": "/home/c4droid/Source/Carbon/ElfFile/MultibootElfSection.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/InterruptDescriptor/InterruptController.c.o   -c /home/c4droid/Source/Carbon/InterruptDescriptor/InterruptController.c",
+  "file": "/home/c4droid/Source/Carbon/InterruptDescriptor/InterruptController.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/InterruptDescriptor/InterruptDescriptorControl.c.o   -c /home/c4droid/Source/Carbon/InterruptDescriptor/InterruptDescriptorControl.c",
+  "file": "/home/c4droid/Source/Carbon/InterruptDescriptor/InterruptDescriptorControl.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/InterruptDescriptor/InterruptServiceRoutine.c.o   -c /home/c4droid/Source/Carbon/InterruptDescriptor/InterruptServiceRoutine.c",
+  "file": "/home/c4droid/Source/Carbon/InterruptDescriptor/InterruptServiceRoutine.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/InterruptDescriptor/InterruptStatus.c.o   -c /home/c4droid/Source/Carbon/InterruptDescriptor/InterruptStatus.c",
+  "file": "/home/c4droid/Source/Carbon/InterruptDescriptor/InterruptStatus.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/Kernel/MainKernel.c.o   -c /home/c4droid/Source/Carbon/Kernel/MainKernel.c",
+  "file": "/home/c4droid/Source/Carbon/Kernel/MainKernel.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/KernelLibrary/KenrelPrintUtil.c.o   -c /home/c4droid/Source/Carbon/KernelLibrary/KenrelPrintUtil.c",
+  "file": "/home/c4droid/Source/Carbon/KernelLibrary/KenrelPrintUtil.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/KernelLibrary/KernelInlineAssembly.c.o   -c /home/c4droid/Source/Carbon/KernelLibrary/KernelInlineAssembly.c",
+  "file": "/home/c4droid/Source/Carbon/KernelLibrary/KernelInlineAssembly.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/KernelLibrary/KernelPrint.c.o   -c /home/c4droid/Source/Carbon/KernelLibrary/KernelPrint.c",
+  "file": "/home/c4droid/Source/Carbon/KernelLibrary/KernelPrint.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/Memory/PhysicalMemory.c.o   -c /home/c4droid/Source/Carbon/Memory/PhysicalMemory.c",
+  "file": "/home/c4droid/Source/Carbon/Memory/PhysicalMemory.c"
+},
+{
+  "directory": "/home/c4droid/Source/Carbon/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/home/c4droid/Source/Carbon/Include  -c -Wall -m32 -ggdb -gstabs+ -nostdinc -fno-builtin -fno-stack-protector -fpack-struct -mno-ms-bitfields -g   -std=gnu11 -o CMakeFiles/Kernel.elf.dir/RuntimeLibrary/StringLibrary.c.o   -c /home/c4droid/Source/Carbon/RuntimeLibrary/StringLibrary.c",
+  "file": "/home/c4droid/Source/Carbon/RuntimeLibrary/StringLibrary.c"
+}
+]
